@@ -1,4 +1,4 @@
-import image from "https://github.com/netology-code/ahj-homeworks/raw/AHJ-50/dom/pic/goblin.png";
+import image from "../img/goblin.png";
 document.addEventListener("DOMContentLoaded", () => {
     const cells = document.querySelectorAll(".cell");
     const goblinIcon = document.createElement("img");
